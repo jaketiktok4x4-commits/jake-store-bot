@@ -1,1 +1,0 @@
-# jake-store-bot
